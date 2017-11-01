@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "jquery": ">=1.11",
-    "o2-raf": "~1"
+    "o2-raf": "git+ssh://git@github.com/o2web/raf.git"
   }
 }
